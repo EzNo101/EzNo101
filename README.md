@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Volodymyr 💫</h1>
+<h1 align="center">Hi, I'm Volodymyr 🫩</h1>
 <p align="center">Backend Engineer • Python</p>
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
